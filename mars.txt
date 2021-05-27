@@ -2,4 +2,4 @@ Mars is a planet.
 It is red.
 Therefore, it is named the "red planet".
 
-However, nuking it should provide sparks.
+However, we cannot terraform it.
