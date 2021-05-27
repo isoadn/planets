@@ -3,3 +3,5 @@ It is red.
 Therefore, it is named the "red planet".
 
 However, we cannot terraform it.
+
+Plus, Venus is better.
