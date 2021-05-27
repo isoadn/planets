@@ -1,0 +1,3 @@
+Mars is a planet.
+It is red.
+Therefore, it is called the "red planet".
